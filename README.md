@@ -9,7 +9,7 @@ To provide actionable insights into the global data professional landscape by an
 
 ## Tools Used
 * Microsoft Forms – for survey creation and data collection
-* Microsoft Excel – for data cleaning and preparation
+* Power Query and DAX – for data cleaning and preparation
 * Power BI – for interactive visualization and storytelling
 
 ## Insights:
