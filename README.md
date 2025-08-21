@@ -7,6 +7,11 @@
 
 To provide actionable insights into the global data professional landscape by analyzing demographics, career paths, job satisfaction, and aspirations, helping organizations and individuals understand workforce trends, career transitions, and key factors influencing professional satisfaction.
 
+## Tools Used
+* Microsoft Forms – for survey creation and data collection
+* Microsoft Excel – for data cleaning and preparation
+* Power BI – for interactive visualization and storytelling
+
 ## Insights:
 
 **1. Respondent Profile**
